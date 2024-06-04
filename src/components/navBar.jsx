@@ -10,7 +10,7 @@ function NavBar({children}) {
   const [show, setShow] = useState(true);
   const [lastScrollY, setLastScrollY] = useState(0);
   const [menu, setMenu] = useState(false);
-  const [scrollNearTop, setScrollNearTop] = useState(false);
+  const [scrollNearTop, setScrollNearTop] = useState(true);
   const controlNavbar = () => {
     if (window.scrollY < 100) {
       setScrollNearTop(true);
