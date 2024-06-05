@@ -10,11 +10,11 @@ module.exports = {
       "sm": "640px",
       // => @media (min-width: 640px) { ... }
 
-      "md": "985px",
+      "md": "682px",
       // => @media (min-width: 768px) { ... }
       // "tab": "1023px",
 
-      "lg": "1087px",
+      "lg": "1200px",
       // => @media (min-width: 1024px) { ... }
 
       "xl": "1280px",
@@ -36,6 +36,8 @@ module.exports = {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        "hero":
+          "url('https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d7eb5ea3efb_home-hero-bg.svg')",
       },
     },
   },

@@ -1,0 +1,28 @@
+.hero-class {
+    background:
+        url('https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d7eb5ea3efb_home-hero-bg.svg') no-repeat center/cover,
+        linear-gradient(to bottom, black 35%, white 73%);
+    height: 100vh;
+    /* background-size: 100%, 100%; */
+}
+
+@media screen and (max-width: 991px) {
+    .hero-class {
+        background:
+            url('https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d7eb5ea3efb_home-hero-bg.svg') no-repeat center/cover,
+            linear-gradient(to bottom, black 35%, white 73%);
+        height: auto;
+        min-height: 1070px;
+        background-size: cover;
+
+    }
+}
+
+@media screen and (min-width: 991px) {
+    .hero-class {
+        background:
+            url('https://cdn.prod.website-files.com/639b3e775b326dcf7cea3e70/639b3e775b326d7eb5ea3efb_home-hero-bg.svg') no-repeat center/cover,
+            linear-gradient(to bottom, black 35%, white 73%);
+        height: 103vh;
+    }
+}

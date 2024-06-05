@@ -44,7 +44,7 @@ function NavBar({children}) {
       <div
         className={` ${
           !show ? " -translate-y-full" : "translate-y-0"
-        } z-50 fixed transition-all ease-in-out  duration-500 flex px-12 md:px-12 lg:px-24  h-[70px] text-white w-full bg-[#151218] ${
+        } z-50 fixed transition-all ease-in-out  duration-500 flex px-6 md:px-12 lg:px-24  h-[80px] text-white w-full bg-[#151218] ${
           scrollNearTop ? " bg-opacity-100" : " bg-opacity-65"
         } `}
       >
@@ -136,7 +136,7 @@ function NavBar({children}) {
         </div>
       </div>
       {/* content */}
-      <div className={` ${menu ? "hidden" : "block"} mt-[80px] `}>
+      <div className={` ${menu ? "hidden" : "block"} mt-[0px] `}>
         {children}
       </div>
     </div>
