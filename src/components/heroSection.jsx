@@ -7,7 +7,7 @@ import Text from "./ui/text";
 
 function HeroSection() {
   return (
-    <div className="  hero-class">
+    <div className="  hero-class" id="heroSection">
       <div className="md:p-12 lg:pt-48 lg:p-36 p-6  pt-36 md:pt-36 h-full">
         <div className="flex flex-col lg:flex-row items-center   md:gap-24 gap-12 lg:gap-12 h-full">
           <div className="flex  flex-col gap-5 md:gap-5  lg:gap-7">

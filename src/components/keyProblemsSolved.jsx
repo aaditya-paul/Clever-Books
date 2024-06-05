@@ -12,7 +12,7 @@ function KeyProblemsSolved() {
           Four key questions answered by Clever Books
         </div>
         <div className="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 h-auto gap-4 ">
-          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-3 md:p-5 lg:p-7">
+          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-5 md:p-5 lg:p-7">
             <div className=" flex flex-col gap-5">
               <div className=" relative w-12 md:w-16 lg:w-16 h-12 md:h-16 lg:h-16">
                 <Image fill src={Icon1} alt="icon1" />
@@ -29,7 +29,7 @@ function KeyProblemsSolved() {
               </div>
             </div>
           </div>
-          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-3 md:p-5 lg:p-7">
+          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-5 md:p-5 lg:p-7">
             <div className=" flex flex-col gap-5">
               <div className=" relative w-12 md:w-16 lg:w-16 h-12 md:h-16 lg:h-16">
                 <Image fill src={Icon2} alt="icon1" />
@@ -46,7 +46,7 @@ function KeyProblemsSolved() {
               </div>
             </div>
           </div>
-          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-3 md:p-5 lg:p-7">
+          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-5 md:p-5 lg:p-7">
             <div className=" flex flex-col gap-5">
               <div className=" relative w-12 md:w-16 lg:w-16 h-12 md:h-16 lg:h-16">
                 <Image fill src={Icon3} alt="icon1" />
@@ -63,7 +63,7 @@ function KeyProblemsSolved() {
               </div>
             </div>
           </div>
-          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-3 md:p-5 lg:p-7">
+          <div className="bg-lavender w-full h-full  rounded-2xl break-words p-5 md:p-5 lg:p-7">
             <div className=" flex flex-col gap-5">
               <div className=" relative w-12 md:w-16 lg:w-16 h-12 md:h-16 lg:h-16">
                 <Image fill src={Icon4} alt="icon1" />

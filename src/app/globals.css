@@ -16,10 +16,15 @@
   }
 }
 
+html {
+  scroll-behavior: smooth !important;
+}
+
 body {
   color: black;
   background: white;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 @layer utilities {
