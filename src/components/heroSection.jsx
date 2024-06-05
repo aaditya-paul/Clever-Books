@@ -3,7 +3,6 @@ import "../styles/heroSection.css";
 import Image from "next/image";
 import Vector from "../../public/assets/vector.svg";
 import Vector2 from "../../public/assets/vector2.svg";
-import Button from "./ui/button";
 import Text from "./ui/text";
 
 function HeroSection() {
@@ -27,16 +26,16 @@ function HeroSection() {
                 <div className=" flex items-center  ">
                   <div className="group  cursor-pointer flex items-center justify-center">
                     <div
-                      className={` group flex items-center justify-center bg-gradient-to-tr from-[#fc907e] to-[#9f6eed] w-[200px] md:w-[230px] lg:w-[310px] h-[50px] lg:h-[60px] p-[3px] rounded-[48px]`}
+                      className={` group flex items-center justify-center bg-gradient-to-tr from-[#fc907e] to-[#9f6eed] w-[200px] md:w-[230px] lg:w-[230px] h-[50px] lg:h-[54px] p-[3px] rounded-[48px]`}
                     >
                       <div
-                        className={` px-5 py-3  bg-[#151218] rounded-[48px] transition-all ease-in-out duration-200 group-hover:-scale-0 w-[200px]  md:w-[230px] lg:w-[310px] h-[46px] lg:h-[56px]`}
+                        className={` px-5 py-3  bg-[#151218] rounded-[48px] transition-all ease-in-out duration-200 group-hover:-scale-0 w-[200px]  md:w-[230px] lg:w-[230px] h-[46px] lg:h-[50px]`}
                       ></div>
                     </div>
                     <div
-                      className={` absolute left-[40px] md:left-[65px] lg:left-[155px]`}
+                      className={` absolute left-[40px] md:left-[65px] lg:left-[157px]`}
                     >
-                      <div className="text-[#fc907e] bg-gradient-to-br font-bold from-[#fc907e] to-[#9f6eed] bg-clip-text text-transparent transition-all  group-hover:text-white duration-300 ease-linear text-xs md:text-sm lg:text-xl ">
+                      <div className="text-[#fc907e] bg-gradient-to-br font-bold from-[#fc907e] to-[#9f6eed] bg-clip-text text-transparent transition-all  group-hover:text-white duration-300 ease-linear text-xs md:text-sm lg:text-sm ">
                         Get Started With Clever Books
                       </div>
                     </div>

@@ -5,7 +5,7 @@ const inter = Inter({subsets: ["latin"], variable: "--font-inter"});
 const ubuntu = Ubuntu({
   subsets: ["latin"],
   variable: "--font-ubuntu",
-  weight: ["400"],
+  weight: ["400", "700"],
 });
 
 export const metadata = {

@@ -27,6 +27,7 @@ module.exports = {
       colors: {
         "white": "#ffffff",
         "salmon": "#fc907e",
+        "lavender": "#f1e9fc",
       },
       fontFamily: {
         "primary": "var(--font-ubuntu)",
