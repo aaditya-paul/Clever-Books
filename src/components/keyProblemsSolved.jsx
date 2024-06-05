@@ -6,8 +6,8 @@ import Icon3 from "../../public/assets/icon3.svg";
 import Icon4 from "../../public/assets/icon4.svg";
 function KeyProblemsSolved() {
   return (
-    <div className="md:px-12  lg:px-36 px-6  ">
-      <div className="  flex flex-col gap-16 md:gap-24  lg:gap-24 justify-center items-center my-16  md:my-24 lg:my-36">
+    <div className="md:px-12  lg:px-36 px-6  md:my-24 lg:my-36 ">
+      <div className="  flex flex-col gap-16 md:gap-24  lg:gap-24 justify-center items-center my-16 ">
         <div className=" font-primary text-center text-2xl md:text-4xl lg:text-4xl font-[700]">
           Four key questions answered by Clever Books
         </div>

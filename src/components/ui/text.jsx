@@ -5,7 +5,7 @@ function Text({children, bold, size}) {
     <span
       className={`text-[#fc907e] bg-gradient-to-br  from-[#fc907e] to-[#9f6eed] bg-clip-text text-transparent ${
         bold ? "font-bold" : "font-normal"
-      }  text-[${size}]`}
+      }  text-[${size}px]`}
     >
       {children}
     </span>

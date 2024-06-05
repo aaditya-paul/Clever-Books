@@ -9,7 +9,7 @@ const ubuntu = Ubuntu({
 });
 
 export const metadata = {
-  title: "CleverBooks",
+  title: "Clever Books",
   description: "legendary recipes of the world listed here !",
 };
 
