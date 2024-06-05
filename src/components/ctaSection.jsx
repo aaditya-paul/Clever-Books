@@ -25,7 +25,7 @@ function CTASection() {
               tomorrow. We bring the methods and technologies of large global
               companies to help brands of all sizes scale.
             </div>
-            <div className=" cursor-pointer active:scale-95 transition-all ease-linear bg-black text-white py-3 px-5 rounded-[48px]">
+            <div className=" text-lg cursor-pointer active:scale-95 transition-all ease-linear bg-black text-white py-3 px-5 rounded-[48px]">
               <div>Get Started With Clever Books</div>
             </div>
           </div>
