@@ -17,40 +17,10 @@ function page() {
         <KeyMetricsSections />
         <ReviewSections />
         <ProblemTargetSection />
-        <CTASection />
-        <FooterSection />
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
-        <div>hihih</div>
+        <div className=" bg-[#151218]">
+          <CTASection />
+          <FooterSection />
+        </div>
       </NavBar>
     </div>
   );
