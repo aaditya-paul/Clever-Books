@@ -11,11 +11,11 @@ function HeroSection() {
     <div className="  hero-class">
       <div className="md:p-12 lg:pt-48 lg:p-36 p-6  pt-36 md:pt-36 h-full">
         <div className="flex flex-col lg:flex-row items-center   md:gap-24 gap-12 lg:gap-12 h-full">
-          <div className="flex  flex-col gap-5 md:gap-5  lg:gap-10">
-            <div className=" lg:text-6xl font-semibold md:text-3xl text-3xl md:leading-[40px] lg:leading-[76px] text-white font-primary">
+          <div className="flex  flex-col gap-5 md:gap-5  lg:gap-7">
+            <div className=" lg:text-5xl font-semibold md:text-3xl text-3xl md:leading-[40px] lg:leading-[76px] text-white font-primary">
               Every Culinary Dream, <br></br> <Text bold> Realised.</Text>
             </div>
-            <div className=" lg:text-2xl md:text-xl text-sm lg:leading-8 md:leading-7 text-white font-primary">
+            <div className=" lg:text-lg md:text-xl text-sm lg:leading-8 md:leading-7 text-white font-primary">
               Eliminate the guesswork and unlock the full potential of your
               culinary and business ventures with Darsheel Savla. As the
               charismatic co-founder of PatilKaki, Darsheel brings a relentless
